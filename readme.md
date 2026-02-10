@@ -9,16 +9,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@herebatsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="herebatsy" height="30" width="40" /></a>
-<a href="https://instagram.com/ankityadavofficially" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankityadavofficially" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/ankit8299/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="ankityadavofficially" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/ankityadav8299/" target="blank">
+<a href="https://twitter.com/@herebatsy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="herebatsy" height="30" width="40" /></a>
+<a href="https://instagram.com/ankityadavofficially" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankityadavofficially" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ankit8299/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="ankityadavofficially" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ankityadav8299/" target="_blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
 </a>
-  <a href="https://codeforces.com/profile/codemaster_8299" target="blank">
+  <a href="https://codeforces.com/profile/codemaster_8299" target="_blank">
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-3031869.png?f=webp&w=512" alt="Codeforces" height="30" width="40" />
 </a>
-  <a href="https://www.codechef.com/users/codemaster8299" target="blank">
+  <a href="https://www.codechef.com/users/codemaster8299" target="_blank">
     <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="30" width="40" />
 </a>
 
