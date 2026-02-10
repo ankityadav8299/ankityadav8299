@@ -35,5 +35,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankityadav8299&show_icons=true&locale=en&layout=compact" alt="ankityadav8299" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankityadav8299&show_icons=true&locale=en" alt="ankityadav8299" /></p>
+// the deployment is not working
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankityadav8299&" alt="ankityadav8299" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankityadav8299" alt="ankityadav8299" /></p>
