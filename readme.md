@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/@herebatsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="herebatsy" height="30" width="40" /></a>
 <a href="https://instagram.com/ankityadavofficially" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankityadavofficially" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ankit8299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ankityadavofficially" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ankityadav8299/" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
 </a>
