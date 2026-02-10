@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
 <h3 align="center">A passionate programmer, Full Stack Developer and AI enthusiast from india.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankityadav8299&label=Profile%20views&color=0e75b6&style=flat" alt="ankityadav8299" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankityadav8299&label=Profile%20views&color=0e75b6&style=flat" alt="ankityadav8299"/> </p>
 
 - 💬 Ask me about **DSA and Web Development**
 
