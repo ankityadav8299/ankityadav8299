@@ -16,7 +16,7 @@
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
 </a>
   <a href="https://codeforces.com/profile/codemaster_8299" target="blank">
-    <img align="center" src="https://iconscout.com/free-icon/free-code-forces-logo-icon_3031869" alt="Codeforces" height="30" width="40" />
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-3031869.png?f=webp&w=512" alt="Codeforces" height="30" width="40" />
 </a>
   <a href="https://www.codechef.com/users/codemaster8299" target="blank">
     <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="30" width="40" />
